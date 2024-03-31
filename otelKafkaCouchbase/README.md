@@ -1,7 +1,7 @@
 # OpenTelemetry Collector&UIs - Kafka&UI - Couchbase&UI Local Environment
 
 ![Couchbase Logo](https://upload.wikimedia.org/wikipedia/commons/6/67/Couchbase%2C_Inc._official_logo.png)
-![Kafka Logo](https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png)
+![Kafka Logo](https://logovectordl.com/wp-content/uploads/2021/05/apache-kafka-logo-vector.png)
 ![Zookeeper Logo](https://upload.wikimedia.org/wikipedia/commons/7/77/Apache_ZooKeeper_logo.svg)
 ![OpenTelemetry Logo](https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.png)
 ![Jaeger Logo](https://logowik.com/content/uploads/images/jaeger2618.logowik.com.webp)
